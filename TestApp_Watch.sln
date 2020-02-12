@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp_Watch", "TestApp_Watch\TestApp_Watch\TestApp_Watch.csproj", "{D0A81452-0F69-4A74-A49A-A33DA0C2B830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp_Watch.Tizen.Wearable", "TestApp_Watch\TestApp_Watch.Tizen.Wearable\TestApp_Watch.Tizen.Wearable.csproj", "{B47D790F-A0F8-4BA9-84AC-962665548DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A81452-0F69-4A74-A49A-A33DA0C2B830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A81452-0F69-4A74-A49A-A33DA0C2B830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A81452-0F69-4A74-A49A-A33DA0C2B830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A81452-0F69-4A74-A49A-A33DA0C2B830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47D790F-A0F8-4BA9-84AC-962665548DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47D790F-A0F8-4BA9-84AC-962665548DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47D790F-A0F8-4BA9-84AC-962665548DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47D790F-A0F8-4BA9-84AC-962665548DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA9EF2B-FE2B-4FE6-A060-CDD5CFBB6B2A}
+	EndGlobalSection
+EndGlobal
